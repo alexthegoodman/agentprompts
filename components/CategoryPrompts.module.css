@@ -1,0 +1,30 @@
+.promptList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+    
+}
+
+.promptList a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #74ad7f;
+    color: white;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 0;
+    transition: 0.2s all;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 26px;
+    min-height: 144px;
+    box-sizing: border-box;
+}
+
+.promptList a:hover {
+    background-color: #8ead74;
+    transform: scale(1.05);
+    transition: 0.2s all;
+}

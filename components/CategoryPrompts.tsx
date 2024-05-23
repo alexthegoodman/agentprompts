@@ -1,4 +1,5 @@
 import Link from "next/link";
+import styles from "./CategoryPrompts.module.css";
 import promptsMetadata from "../app/promptsMetadata.json";
 
 export default function CategoryPrompts({ slug = "" }) {
@@ -7,7 +8,7 @@ export default function CategoryPrompts({ slug = "" }) {
   );
 
   return (
-    <>
+    <section className={styles.promptList}>
       {categoryPrompts.map((prompt, index) => {
         const readableShortVersion = prompt.shortVersion
           .split("-")
@@ -15,13 +16,11 @@ export default function CategoryPrompts({ slug = "" }) {
           .replace(/\b\w/g, (l: any) => l.toUpperCase());
 
         return (
-          <div>
-            <Link href={prompt.url} key={index}>
-              {readableShortVersion}...
-            </Link>
-          </div>
+          <Link href={prompt.url} key={index}>
+            {readableShortVersion}...
+          </Link>
         );
       })}
-    </>
+    </section>
   );
 }
