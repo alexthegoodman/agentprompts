@@ -7,9 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-mdx": "ts-node -r dotenv/config ./scripts/generate-mdx.mjs"
+    "generate-mdx": "ts-node -r dotenv/config ./scripts/generate-mdx.mjs",
+    "generate-metadata": "ts-node -r dotenv/config ./scripts/generate-metadata.mjs"
   },
   "dependencies": {
+    "@mdx-js/loader": "^3.0.1",
+    "@mdx-js/react": "^3.0.1",
+    "@next/mdx": "^14.2.3",
+    "@types/mdx": "^2.0.13",
     "dotenv": "^16.4.5",
     "next": "14.2.3",
     "openai": "^4.47.1",

@@ -73,7 +73,9 @@ async function main() {
     const shortPrompt = prompt.substring(0, 50);
     const promptSlug = shortPrompt.toLowerCase().replace(/[^a-z0-9]/g, "-");
 
-    const filename = `${dir}/${promptSlug}.mdx`;
+    // TODO:: create ${dir}/${promptSlug}/ folder if it doesn't exist?
+
+    const filename = `${dir}/${promptSlug}/page.mdx`;
 
     const content = `---
 Prompt:

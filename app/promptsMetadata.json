@@ -1,0 +1,702 @@
+[
+  {
+    "shortVersion": "conceptualize-a-farm-to-table-restaurant-model-tha",
+    "url": "/prompts/agriculture-and-food/conceptualize-a-farm-to-table-restaurant-model-tha",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "create-an-ai-powered-irrigation-system-that-adapts",
+    "url": "/prompts/agriculture-and-food/create-an-ai-powered-irrigation-system-that-adapts",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "create-an-online-marketplace-that-connects-urban-c",
+    "url": "/prompts/agriculture-and-food/create-an-online-marketplace-that-connects-urban-c",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "design-a-commercial-aquaponics-system-for-urban-en",
+    "url": "/prompts/agriculture-and-food/design-a-commercial-aquaponics-system-for-urban-en",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "design-a-vertical-farming-system-that-can-be-insta",
+    "url": "/prompts/agriculture-and-food/design-a-vertical-farming-system-that-can-be-insta",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "design-an-educational-workshop-series-for-small-sc",
+    "url": "/prompts/agriculture-and-food/design-an-educational-workshop-series-for-small-sc",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "develop-a-blockchain-based-supply-chain-tracking-s",
+    "url": "/prompts/agriculture-and-food/develop-a-blockchain-based-supply-chain-tracking-s",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "develop-a-comprehensive-training-program-for-aspir",
+    "url": "/prompts/agriculture-and-food/develop-a-comprehensive-training-program-for-aspir",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "develop-a-smartphone-app-that-helps-urban-gardener",
+    "url": "/prompts/agriculture-and-food/develop-a-smartphone-app-that-helps-urban-gardener",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "establish-a-community-supported-agriculture--csa--",
+    "url": "/prompts/agriculture-and-food/establish-a-community-supported-agriculture--csa--",
+    "category": "agriculture-and-food"
+  },
+  {
+    "shortVersion": "build-an-ai-driven-platform-for-e-commerce-website",
+    "url": "/prompts/customer-feedback-and-improvement/build-an-ai-driven-platform-for-e-commerce-website",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "construct-an-interactive-feedback-kiosk-system-for",
+    "url": "/prompts/customer-feedback-and-improvement/construct-an-interactive-feedback-kiosk-system-for",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "create-a-user-friendly-online-portal-for-education",
+    "url": "/prompts/customer-feedback-and-improvement/create-a-user-friendly-online-portal-for-education",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "deploy-a-community-feedback-platform-for-local-gov",
+    "url": "/prompts/customer-feedback-and-improvement/deploy-a-community-feedback-platform-for-local-gov",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "design-a-gamified-feedback-system-for-a-mobile-gam",
+    "url": "/prompts/customer-feedback-and-improvement/design-a-gamified-feedback-system-for-a-mobile-gam",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "design-a-mobile-app-that-allows-users-to-leave-ins",
+    "url": "/prompts/customer-feedback-and-improvement/design-a-mobile-app-that-allows-users-to-leave-ins",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "develop-a-comprehensive-feedback-system-for-a-rest",
+    "url": "/prompts/customer-feedback-and-improvement/develop-a-comprehensive-feedback-system-for-a-rest",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "formulate-a-multi-channel-feedback-strategy-for-a-",
+    "url": "/prompts/customer-feedback-and-improvement/formulate-a-multi-channel-feedback-strategy-for-a-",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "initiate-a-customer-advisory-board-program-for-a-b",
+    "url": "/prompts/customer-feedback-and-improvement/initiate-a-customer-advisory-board-program-for-a-b",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "innovate-a-real-time-feedback-tool-for-healthcare-",
+    "url": "/prompts/customer-feedback-and-improvement/innovate-a-real-time-feedback-tool-for-healthcare-",
+    "category": "customer-feedback-and-improvement"
+  },
+  {
+    "shortVersion": "construct-a-self-service-support-portal-for-a-saas",
+    "url": "/prompts/customer-support/construct-a-self-service-support-portal-for-a-saas",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "create-a-detailed-training-curriculum-for-new-cust",
+    "url": "/prompts/customer-support/create-a-detailed-training-curriculum-for-new-cust",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "create-a-personalized-follow-up-strategy-for-high-",
+    "url": "/prompts/customer-support/create-a-personalized-follow-up-strategy-for-high-",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "create-an-educational-webinar-series-that-trains-s",
+    "url": "/prompts/customer-support/create-an-educational-webinar-series-that-trains-s",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "design-a-quality-assurance-program-for-a-financial",
+    "url": "/prompts/customer-support/design-a-quality-assurance-program-for-a-financial",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "design-an-omnichannel-customer-support-strategy-fo",
+    "url": "/prompts/customer-support/design-an-omnichannel-customer-support-strategy-fo",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "develop-a-chatbot-using-ai-to-handle-common-custom",
+    "url": "/prompts/customer-support/develop-a-chatbot-using-ai-to-handle-common-custom",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "develop-an-escalation-process-for-a-healthcare-ser",
+    "url": "/prompts/customer-support/develop-an-escalation-process-for-a-healthcare-ser",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "develope-a-feedback-loop-system-that-regularly-gat",
+    "url": "/prompts/customer-support/develope-a-feedback-loop-system-that-regularly-gat",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "implement-a-ticketing-system-that-prioritizes-cust",
+    "url": "/prompts/customer-support/implement-a-ticketing-system-that-prioritizes-cust",
+    "category": "customer-support"
+  },
+  {
+    "shortVersion": "architect-a-seamless-omnichannel-retail-experience",
+    "url": "/prompts/e-commerce-and-retail/architect-a-seamless-omnichannel-retail-experience",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "craft-a-customer-retention-strategy-for-an-online-",
+    "url": "/prompts/e-commerce-and-retail/craft-a-customer-retention-strategy-for-an-online-",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "create-a-virtual-try-on-feature-for-an-online-eyew",
+    "url": "/prompts/e-commerce-and-retail/create-a-virtual-try-on-feature-for-an-online-eyew",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "create-an-engaging-unboxing-video-series-for-a-sub",
+    "url": "/prompts/e-commerce-and-retail/create-an-engaging-unboxing-video-series-for-a-sub",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "design-a-mobile-app-that-helps-users-find-the-best",
+    "url": "/prompts/e-commerce-and-retail/design-a-mobile-app-that-helps-users-find-the-best",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "develop-a-loyalty-program-for-an-online-fashion-re",
+    "url": "/prompts/e-commerce-and-retail/develop-a-loyalty-program-for-an-online-fashion-re",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "develop-a-pop-up-store-concept-for-a-new-lifestyle",
+    "url": "/prompts/e-commerce-and-retail/develop-a-pop-up-store-concept-for-a-new-lifestyle",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "develop-an-ai-powered-personal-shopping-assistant-",
+    "url": "/prompts/e-commerce-and-retail/develop-an-ai-powered-personal-shopping-assistant-",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "help-design-a-data-driven-email-marketing-strategy",
+    "url": "/prompts/e-commerce-and-retail/help-design-a-data-driven-email-marketing-strategy",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "help-me-create-a-marketing-campaign-for-a-new-line",
+    "url": "/prompts/e-commerce-and-retail/help-me-create-a-marketing-campaign-for-a-new-line",
+    "category": "e-commerce-and-retail"
+  },
+  {
+    "shortVersion": "build-a-narrative-driven-game-where-players-must-n",
+    "url": "/prompts/game-development/build-a-narrative-driven-game-where-players-must-n",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "conceptualize-a-game-that-takes-place-in-a-steampu",
+    "url": "/prompts/game-development/conceptualize-a-game-that-takes-place-in-a-steampu",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "conceptualize-a-strategy-game-where-players-lead-a",
+    "url": "/prompts/game-development/conceptualize-a-strategy-game-where-players-lead-a",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "create-a-multiplayer-online-battle-arena--moba--ga",
+    "url": "/prompts/game-development/create-a-multiplayer-online-battle-arena--moba--ga",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "create-a-rhythm-based-action-game-where-players-co",
+    "url": "/prompts/game-development/create-a-rhythm-based-action-game-where-players-co",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "design-a-game-where-players-assume-the-role-of-anc",
+    "url": "/prompts/game-development/design-a-game-where-players-assume-the-role-of-anc",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "design-an-educational-game-that-allows-players-to-",
+    "url": "/prompts/game-development/design-an-educational-game-that-allows-players-to-",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "develop-a-survival-horror-game-set-in-an-abandoned",
+    "url": "/prompts/game-development/develop-a-survival-horror-game-set-in-an-abandoned",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "develop-an-open-world-rpg-set-in-a-post-apocalypti",
+    "url": "/prompts/game-development/develop-an-open-world-rpg-set-in-a-post-apocalypti",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "imagine-a-city-building-game-where-players-are-tas",
+    "url": "/prompts/game-development/imagine-a-city-building-game-where-players-are-tas",
+    "category": "game-development"
+  },
+  {
+    "shortVersion": "architect-a-go-to-market-framework-for-a-blockchai",
+    "url": "/prompts/go-to-market-planning/architect-a-go-to-market-framework-for-a-blockchai",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "craft-a-brand-identity-and-launch-plan-for-a-new-p",
+    "url": "/prompts/go-to-market-planning/craft-a-brand-identity-and-launch-plan-for-a-new-p",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "create-a-detailed-promotional-strategy-for-a-high-",
+    "url": "/prompts/go-to-market-planning/create-a-detailed-promotional-strategy-for-a-high-",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "create-a-strategic-content-marketing-plan-for-an-o",
+    "url": "/prompts/go-to-market-planning/create-a-strategic-content-marketing-plan-for-an-o",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "design-a-comprehensive-marketing-campaign-for-laun",
+    "url": "/prompts/go-to-market-planning/design-a-comprehensive-marketing-campaign-for-laun",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "design-an-influencer-partnership-strategy-for-a-ne",
+    "url": "/prompts/go-to-market-planning/design-an-influencer-partnership-strategy-for-a-ne",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "develop-a-social-media-campaign-for-a-new-mobile-a",
+    "url": "/prompts/go-to-market-planning/develop-a-social-media-campaign-for-a-new-mobile-a",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "generate-a-marketing-blueprint-for-a-fitness-subsc",
+    "url": "/prompts/go-to-market-planning/generate-a-marketing-blueprint-for-a-fitness-subsc",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "help-me-develop-a-series-of-engaging-webinars-and-",
+    "url": "/prompts/go-to-market-planning/help-me-develop-a-series-of-engaging-webinars-and-",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "plan-the-introduction-of-a-luxury-home-automation-",
+    "url": "/prompts/go-to-market-planning/plan-the-introduction-of-a-luxury-home-automation-",
+    "category": "go-to-market-planning"
+  },
+  {
+    "shortVersion": "construct-a-detailed-fitness-regimen-tailored-spec",
+    "url": "/prompts/health-and-wellness/construct-a-detailed-fitness-regimen-tailored-spec",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "create-a-mobile-app-that-tracks-mental-health-metr",
+    "url": "/prompts/health-and-wellness/create-a-mobile-app-that-tracks-mental-health-metr",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "create-a-series-of-informative-videos-on-the-benef",
+    "url": "/prompts/health-and-wellness/create-a-series-of-informative-videos-on-the-benef",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "design-a-holistic-health-program-integrating-yoga-",
+    "url": "/prompts/health-and-wellness/design-a-holistic-health-program-integrating-yoga-",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "develop-a-corporate-wellness-initiative-that-inclu",
+    "url": "/prompts/health-and-wellness/develop-a-corporate-wellness-initiative-that-inclu",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "develop-an-online-course-that-educates-individuals",
+    "url": "/prompts/health-and-wellness/develop-an-online-course-that-educates-individuals",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "draft-a-comprehensive-guide-on-managing-chronic-pa",
+    "url": "/prompts/health-and-wellness/draft-a-comprehensive-guide-on-managing-chronic-pa",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "formulate-a-community-based-intervention-program-t",
+    "url": "/prompts/health-and-wellness/formulate-a-community-based-intervention-program-t",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "help-me-design-a-virtual-wellness-retreat-featurin",
+    "url": "/prompts/health-and-wellness/help-me-design-a-virtual-wellness-retreat-featurin",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "plan-a-social-media-campaign-aimed-at-raising-awar",
+    "url": "/prompts/health-and-wellness/plan-a-social-media-campaign-aimed-at-raising-awar",
+    "category": "health-and-wellness"
+  },
+  {
+    "shortVersion": "create-a-comprehensive-exit-interview-process-to-g",
+    "url": "/prompts/human-resources/create-a-comprehensive-exit-interview-process-to-g",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "create-a-performance-review-system-that-incorporat",
+    "url": "/prompts/human-resources/create-a-performance-review-system-that-incorporat",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "create-an-employee-recognition-program-that-includ",
+    "url": "/prompts/human-resources/create-an-employee-recognition-program-that-includ",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "design-a-flexible-work-policy-that-includes-option",
+    "url": "/prompts/human-resources/design-a-flexible-work-policy-that-includes-option",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "design-a-wellness-initiative-for-employees-that-of",
+    "url": "/prompts/human-resources/design-a-wellness-initiative-for-employees-that-of",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "develop-a-comprehensive-onboarding-program-for-rem",
+    "url": "/prompts/human-resources/develop-a-comprehensive-onboarding-program-for-rem",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "develop-a-professional-development-program-that-in",
+    "url": "/prompts/human-resources/develop-a-professional-development-program-that-in",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "develop-a-succession-planning-framework-to-identif",
+    "url": "/prompts/human-resources/develop-a-succession-planning-framework-to-identif",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "formulate-a-diversity-and-inclusion-strategy-that-",
+    "url": "/prompts/human-resources/formulate-a-diversity-and-inclusion-strategy-that-",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "implement-a-conflict-resolution-and-mediation-prog",
+    "url": "/prompts/human-resources/implement-a-conflict-resolution-and-mediation-prog",
+    "category": "human-resources"
+  },
+  {
+    "shortVersion": "architect-a-compliance-monitoring-system-for-a-pha",
+    "url": "/prompts/legal-and-compliance/architect-a-compliance-monitoring-system-for-a-pha",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "construct-a-policy-document-for-an-e-commerce-comp",
+    "url": "/prompts/legal-and-compliance/construct-a-policy-document-for-an-e-commerce-comp",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "craft-a-legal-risk-assessment-toolkit-for-a-compan",
+    "url": "/prompts/legal-and-compliance/craft-a-legal-risk-assessment-toolkit-for-a-compan",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "create-a-comprehensive-legal-strategy-for-a-tech-s",
+    "url": "/prompts/legal-and-compliance/create-a-comprehensive-legal-strategy-for-a-tech-s",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "create-an-employee-handbook-addressing-workplace-c",
+    "url": "/prompts/legal-and-compliance/create-an-employee-handbook-addressing-workplace-c",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "design-a-legal-education-webinar-series-for-small-",
+    "url": "/prompts/legal-and-compliance/design-a-legal-education-webinar-series-for-small-",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "develop-a-compliance-program-for-a-multinational-c",
+    "url": "/prompts/legal-and-compliance/develop-a-compliance-program-for-a-multinational-c",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "develop-a-corporate-social-responsibility--csr--pr",
+    "url": "/prompts/legal-and-compliance/develop-a-corporate-social-responsibility--csr--pr",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "help-draft-a-litigation-readiness-plan-for-a-healt",
+    "url": "/prompts/legal-and-compliance/help-draft-a-litigation-readiness-plan-for-a-healt",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "help-me-design-a-risk-management-framework-for-a-f",
+    "url": "/prompts/legal-and-compliance/help-me-design-a-risk-management-framework-for-a-f",
+    "category": "legal-and-compliance"
+  },
+  {
+    "shortVersion": "architect-an-interactive--ai-driven-music-recommen",
+    "url": "/prompts/music-production/architect-an-interactive--ai-driven-music-recommen",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "craft-a-marketing-strategy-for-a-retro-themed-synt",
+    "url": "/prompts/music-production/craft-a-marketing-strategy-for-a-retro-themed-synt",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "create-a-sample-library-of-ambient-sounds-from-var",
+    "url": "/prompts/music-production/create-a-sample-library-of-ambient-sounds-from-var",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "create-a-series-of-video-tutorials-on-advanced-sou",
+    "url": "/prompts/music-production/create-a-series-of-video-tutorials-on-advanced-sou",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "design-a-comprehensive-tutorial-series-for-aspirin",
+    "url": "/prompts/music-production/design-a-comprehensive-tutorial-series-for-aspirin",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "develop-a-branding-and-visual-identity-for-an-upco",
+    "url": "/prompts/music-production/develop-a-branding-and-visual-identity-for-an-upco",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "develop-a-comprehensive-guidebook-for-independent-",
+    "url": "/prompts/music-production/develop-a-comprehensive-guidebook-for-independent-",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "help-design-a-unique-music-festival-experience-tha",
+    "url": "/prompts/music-production/help-design-a-unique-music-festival-experience-tha",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "help-me-produce-a-concept-album-that-narrates-the-",
+    "url": "/prompts/music-production/help-me-produce-a-concept-album-that-narrates-the-",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "help-organize-a-global-music-collaboration-project",
+    "url": "/prompts/music-production/help-organize-a-global-music-collaboration-project",
+    "category": "music-production"
+  },
+  {
+    "shortVersion": "craft-a-public-transportation-initiative-in-collab",
+    "url": "/prompts/non-profit-and-community-engagement/craft-a-public-transportation-initiative-in-collab",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "create-a-series-of-workshops-aimed-at-fostering-st",
+    "url": "/prompts/non-profit-and-community-engagement/create-a-series-of-workshops-aimed-at-fostering-st",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "create-an-online-platform-that-facilitates-crowdfu",
+    "url": "/prompts/non-profit-and-community-engagement/create-an-online-platform-that-facilitates-crowdfu",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "design-a-community-driven-urban-farming-initiative",
+    "url": "/prompts/non-profit-and-community-engagement/design-a-community-driven-urban-farming-initiative",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "design-a-comprehensive-educational-curriculum-for-",
+    "url": "/prompts/non-profit-and-community-engagement/design-a-comprehensive-educational-curriculum-for-",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "develop-a-mentorship-program-that-pairs-high-schoo",
+    "url": "/prompts/non-profit-and-community-engagement/develop-a-mentorship-program-that-pairs-high-schoo",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "develop-a-mobile-app-that-connects-volunteers-with",
+    "url": "/prompts/non-profit-and-community-engagement/develop-a-mobile-app-that-connects-volunteers-with",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "establish-a-community-resource-center-that-offers-",
+    "url": "/prompts/non-profit-and-community-engagement/establish-a-community-resource-center-that-offers-",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "organize-an-annual-eco-friendly-festival-that-prom",
+    "url": "/prompts/non-profit-and-community-engagement/organize-an-annual-eco-friendly-festival-that-prom",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "plan-a-nationwide-campaign-to-raise-awareness-abou",
+    "url": "/prompts/non-profit-and-community-engagement/plan-a-nationwide-campaign-to-raise-awareness-abou",
+    "category": "non-profit-and-community-engagement"
+  },
+  {
+    "shortVersion": "architect-a-content-marketing-strategy-for-a-real-",
+    "url": "/prompts/sales-and-marketing/architect-a-content-marketing-strategy-for-a-real-",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "construct-a-detailed-email-marketing-funnel-for-a-",
+    "url": "/prompts/sales-and-marketing/construct-a-detailed-email-marketing-funnel-for-a-",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "create-a-social-media-content-calendar-for-a-local",
+    "url": "/prompts/sales-and-marketing/create-a-social-media-content-calendar-for-a-local",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "create-an-omni-channel-marketing-plan-for-a-luxury",
+    "url": "/prompts/sales-and-marketing/create-an-omni-channel-marketing-plan-for-a-luxury",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "design-an-influencer-marketing-campaign-for-a-new-",
+    "url": "/prompts/sales-and-marketing/design-an-influencer-marketing-campaign-for-a-new-",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "design-an-interactive--gamified-experience-for-a-t",
+    "url": "/prompts/sales-and-marketing/design-an-interactive--gamified-experience-for-a-t",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "develop-a-loyalty-program-for-a-gourmet-food-deliv",
+    "url": "/prompts/sales-and-marketing/develop-a-loyalty-program-for-a-gourmet-food-deliv",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "develop-a-series-of-engaging-webinars-for-a-softwa",
+    "url": "/prompts/sales-and-marketing/develop-a-series-of-engaging-webinars-for-a-softwa",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "devise-a-comprehensive-seo-strategy-for-an-online-",
+    "url": "/prompts/sales-and-marketing/devise-a-comprehensive-seo-strategy-for-an-online-",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "plan-a-launch-event-for-a-new-electric-vehicle--in",
+    "url": "/prompts/sales-and-marketing/plan-a-launch-event-for-a-new-electric-vehicle--in",
+    "category": "sales-and-marketing"
+  },
+  {
+    "shortVersion": "architect-a-zero-waste-cafe-that-sources-local--or",
+    "url": "/prompts/sustainability-and-green-design/architect-a-zero-waste-cafe-that-sources-local--or",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "architect-an-off-grid-tiny-home-that-utilizes-sola",
+    "url": "/prompts/sustainability-and-green-design/architect-an-off-grid-tiny-home-that-utilizes-sola",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "create-a-modular--prefabricated-housing-solution-t",
+    "url": "/prompts/sustainability-and-green-design/create-a-modular--prefabricated-housing-solution-t",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "create-an-eco-friendly-packaging-solution-for-a-po",
+    "url": "/prompts/sustainability-and-green-design/create-an-eco-friendly-packaging-solution-for-a-po",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "create-an-educational-platform-that-teaches-childr",
+    "url": "/prompts/sustainability-and-green-design/create-an-educational-platform-that-teaches-childr",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "design-a-sustainable-fashion-line-that-utilizes-re",
+    "url": "/prompts/sustainability-and-green-design/design-a-sustainable-fashion-line-that-utilizes-re",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "design-a-vertical-farming-system-for-urban-areas-t",
+    "url": "/prompts/sustainability-and-green-design/design-a-vertical-farming-system-for-urban-areas-t",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "design-an-innovative-water-filtration-system-that-",
+    "url": "/prompts/sustainability-and-green-design/design-an-innovative-water-filtration-system-that-",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "develop-a-comprehensive-urban-green-space-plan-tha",
+    "url": "/prompts/sustainability-and-green-design/develop-a-comprehensive-urban-green-space-plan-tha",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "develop-a-mobile-app-that-helps-users-track-and-re",
+    "url": "/prompts/sustainability-and-green-design/develop-a-mobile-app-that-helps-users-track-and-re",
+    "category": "sustainability-and-green-design"
+  },
+  {
+    "shortVersion": "construct-a-dynamic-online-course-aimed-at-upskill",
+    "url": "/prompts/training-and-development/construct-a-dynamic-online-course-aimed-at-upskill",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "create-a-detailed-training-manual-for-remote-team-",
+    "url": "/prompts/training-and-development/create-a-detailed-training-manual-for-remote-team-",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "create-an-advanced-coding-bootcamp-for-experienced",
+    "url": "/prompts/training-and-development/create-an-advanced-coding-bootcamp-for-experienced",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "design-a-creative-writing-masterclass-for-aspiring",
+    "url": "/prompts/training-and-development/design-a-creative-writing-masterclass-for-aspiring",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "design-a-series-of-workshops-for-non-profit-organi",
+    "url": "/prompts/training-and-development/design-a-series-of-workshops-for-non-profit-organi",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "design-an-inclusive-leadership-training-program-fo",
+    "url": "/prompts/training-and-development/design-an-inclusive-leadership-training-program-fo",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "develop-a-comprehensive-onboarding-process-for-new",
+    "url": "/prompts/training-and-development/develop-a-comprehensive-onboarding-process-for-new",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "develop-a-training-curriculum-for-healthcare-profe",
+    "url": "/prompts/training-and-development/develop-a-training-curriculum-for-healthcare-profe",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "formulate-a-professional-development-series-for-ed",
+    "url": "/prompts/training-and-development/formulate-a-professional-development-series-for-ed",
+    "category": "training-and-development"
+  },
+  {
+    "shortVersion": "generate-a-mentorship-program-for-young-entreprene",
+    "url": "/prompts/training-and-development/generate-a-mentorship-program-for-young-entreprene",
+    "category": "training-and-development"
+  }
+]
