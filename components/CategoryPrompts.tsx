@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "next-view-transitions";
 import styles from "./CategoryPrompts.module.css";
 import promptsMetadata from "../app/promptsMetadata.json";
 
