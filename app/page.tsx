@@ -10,8 +10,8 @@ export default function Home() {
           <h1>AI Agent Prompts</h1>
           <p>The home of AI Agent and future AGI prompts!</p>
           <p>
-            Which AI Agent can fulfill the prompts best? It's up to you to find
-            out.
+            {`Which AI Agent can fulfill the prompts best? It's up to you to find
+            out.`}
           </p>
         </div>
       </section>
