@@ -65,15 +65,13 @@ export default function PromptsLayout({ children = null }) {
           )}
           {children}
           {pathMetadata && (
-            <button
+            <a
               className={styles.btn}
-              onClick={() => {
-                // open commonos.cloud in new tab
-                window.open("https://commonos.cloud");
-              }}
+              href="https://commonos.cloud"
+              target="_blank"
             >
               Try Prompt on CommonOS
-            </button>
+            </a>
           )}
         </div>
         {pathMetadata && (
